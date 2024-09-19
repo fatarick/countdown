@@ -18,8 +18,12 @@ Windows : python countdown.py
 
 Just loads the url. Nothing Special
 
+Also i added a Always on top function!
+
 # Examples
 
 I did a countdown until 1/1/2024 so i will be more calm. BECAUSE I WANT THE NEW YEAR ATMOSPHERE!
 
 <image src="https://i.imgur.com/tnMuB7i.png">
+
+## ENJOY!
