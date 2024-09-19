@@ -8,7 +8,7 @@ class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Countdown App")
+        self.setWindowTitle("Countdown App") #Window Title
 
         browser = QWebEngineView()
         layout = QVBoxLayout()
