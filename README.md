@@ -7,7 +7,7 @@ Finally a Pyqt6 app without ChatGPT help (but github copilot)
 
 First change the url on the file
 
-Second (**If you want so**) change programs name where i marked the "Program Name"
+Second (**If you want so**) change programs name where i marked with "Window Name"
 
 Third run it using terminal
 
